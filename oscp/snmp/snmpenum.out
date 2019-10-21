@@ -1,0 +1,253 @@
+
+
+----------------------------------------
+	INSTALLED SOFTWARE
+----------------------------------------
+
+Windows 2000 Hotfix (SP4) KB810217
+Windows 2000 Hotfix (SP4) KB817606
+Windows 2000 Hotfix - KB819696
+Windows 2000 Hotfix - KB823182
+Windows 2000 Hotfix - KB823559
+Windows 2000 Hotfix - KB824105
+Windows 2000 Hotfix - KB824151
+Windows 2000 Hotfix - KB826232
+Windows 2000 Hotfix - KB828035
+Windows 2000 Hotfix - KB828741
+Windows 2000 Hotfix - KB828749
+Windows 2000 Hotfix - KB835732
+Windows 2000 Hotfix - KB837001
+Windows 2000 Hotfix - KB839643
+Windows 2000 Hotfix - KB839645
+Windows 2000 Hotfix - KB840987
+Windows 2000 Hotfix - KB841356
+Windows 2000 Hotfix - KB841533
+Windows 2000 Hotfix - KB841872
+Windows 2000 Hotfix - KB841873
+Windows 2000 Hotfix - KB842526
+Windows 2000 Hotfix - KB842773
+Microsoft Data Access Components KB870669
+Windows 2000 Hotfix - KB871250
+Windows 2000 Hotfix - KB873333
+Windows 2000 Hotfix - KB873339
+Windows 2000 Hotfix - KB883939
+Windows 2000 Hotfix - KB885250
+Windows 2000 Hotfix - KB885834
+Windows 2000 Hotfix - KB885835
+Windows 2000 Hotfix - KB885836
+Windows 2000 Hotfix - KB888113
+Windows 2000 Hotfix - KB890046
+Windows 2000 Hotfix - KB890859
+Windows 2000 Hotfix - KB891781
+Windows 2000 Hotfix - KB893066
+Windows 2000 Hotfix - KB893086
+Windows Installer 3.1 (KB893803)
+Windows 2000 Hotfix - KB894320
+Windows 2000 Hotfix - KB896358
+Windows 2000 Hotfix - KB896422
+Windows 2000 Hotfix - KB897715
+Microsoft SQL Server 2000
+Windows 2000 Hotfix (Pre-SP4) [See q323172 for more information]
+Windows 2000 Hotfix (Pre-SP4) [See Q326830 for more information]
+Windows 2000 Hotfix (Pre-SP4) [See Q326886 for more information]
+Windows 2000 Hotfix (Pre-SP4) [See Q329115 for more information]
+Windows 2000 Hotfix (Pre-SP4) Q329170
+Windows 2000 Hotfix (SP4) Q329553
+Windows 2000 Hotfix (Pre-SP4) [See Q329834 for more information]
+Windows 2000 Hotfix (Pre-SP4) Q810833
+Windows 2000 Hotfix (SP4) Q811114
+Windows 2000 Hotfix (SP4) Q814033
+Windows Media Player Hotfix [See Q828026 for more information]
+VNC Free Edition 4.1.1
+WinRAR archiver
+VMware Tools
+Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.4148
+ActiveState ActivePython 2.4.3
+WebFldrs
+
+
+----------------------------------------
+	DISKS
+----------------------------------------
+
+A:\
+C:\ Label:  Serial Number e448e451
+D:\
+Virtual Memory
+
+
+----------------------------------------
+	SYSTEM INFO
+----------------------------------------
+
+Hardware: x86 Family 6 Model 15 Stepping 2 AT/AT COMPATIBLE - Software: Windows 2000 Version 5.0 (Build 2195 Uniprocessor Free)
+
+
+----------------------------------------
+	SERVICES
+----------------------------------------
+
+Server
+Alerter
+VMTools
+Event Log
+Messenger
+Telephony
+DNS Client
+DHCP Client
+MSSQLSERVER
+Workstation
+SNMP Service
+Plug and Play
+Print Spooler
+RunAs Service
+SQLSERVERAGENT
+Task Scheduler
+Computer Browser
+Microsoft Search
+Automatic Updates
+COM+ Event System
+IIS Admin Service
+Protected Storage
+Removable Storage
+IPSEC Policy Agent
+Logical Disk Manager
+VNC Server Version 4
+FTP Publishing Service
+Distributed File System
+License Logging Service
+Remote Registry Service
+Security Accounts Manager
+System Event Notification
+Remote Procedure Call (RPC)
+TCP/IP NetBIOS Helper Service
+NT LM Security Support Provider
+Distributed Link Tracking Client
+World Wide Web Publishing Service
+Windows Management Instrumentation
+Distributed Transaction Coordinator
+Simple Mail Transport Protocol (SMTP)
+Windows Management Instrumentation Driver Extensions
+
+
+----------------------------------------
+	UPTIME
+----------------------------------------
+
+2 days, 10:33:49.56
+
+
+----------------------------------------
+	HOSTNAME
+----------------------------------------
+
+JD
+
+
+----------------------------------------
+	LISTENING UDP PORTS
+----------------------------------------
+
+135
+161
+445
+1434
+2444
+3456
+
+
+----------------------------------------
+	DOMAIN
+----------------------------------------
+
+WORKGROUP
+
+
+----------------------------------------
+	SHARES
+----------------------------------------
+
+share
+C:\share
+
+
+
+----------------------------------------
+	RUNNING PROCESSES
+----------------------------------------
+
+System Idle Process
+System
+smss.exe
+csrss.exe
+WINLOGON.EXE
+services.exe
+LSASS.EXE
+svchost.exe
+SPOOLSV.EXE
+msdtc.exe
+svchost.exe
+LLSSRV.EXE
+sqlservr.exe
+regsvc.exe
+mstask.exe
+snmp.exe
+vmtoolsd.exe
+winmgmt.exe
+winvnc4.exe
+svchost.exe
+mssearch.exe
+dfssvc.exe
+CMD.EXE
+sqlagent.exe
+inetinfo.exe
+svchost.exe
+findstr.exe
+dllhost.exe
+rundll32.exe
+
+
+----------------------------------------
+	USERS
+----------------------------------------
+
+lee
+ned
+gary
+john
+lisa
+mark
+nick
+todd
+Guest
+admin
+david
+homer
+simon
+backup
+sqlusr
+IUSR_SRV2
+IWAM_SRV2
+Administrator
+TsInternetUser
+
+
+----------------------------------------
+	LISTENING TCP PORTS
+----------------------------------------
+
+21
+25
+80
+135
+443
+445
+1025
+1026
+1031
+2443
+2607
+3372
+5800
+5900
+6532

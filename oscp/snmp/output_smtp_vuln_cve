@@ -1,0 +1,431 @@
+Starting Nmap 7.70 ( https://nmap.org ) at 2019-10-11 07:07 EDT
+Nmap scan report for smtp-vuln-cve2011-1720.nse (185.53.178.6)
+Host is up (0.00044s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+
+Nmap scan report for smtp-vuln-cve2011-1764.nse (185.53.178.6)
+Host is up (0.00039s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+
+Nmap scan report for 10.11.1.5
+Host is up (0.084s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:6B:C0 (VMware)
+
+Nmap scan report for 10.11.1.7
+Host is up (0.00095s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:56:58 (VMware)
+
+Nmap scan report for 10.11.1.8
+Host is up (0.068s latency).
+
+PORT    STATE    SERVICE
+25/tcp  closed   smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:52:C1 (VMware)
+
+Nmap scan report for 10.11.1.10
+Host is up (0.0010s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:31:0A (VMware)
+
+Nmap scan report for 10.11.1.13
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:7F:F0 (VMware)
+
+Nmap scan report for 10.11.1.14
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:00:F2 (VMware)
+
+Nmap scan report for 10.11.1.22
+Host is up (0.14s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:10:0D (VMware)
+
+Nmap scan report for 10.11.1.24
+Host is up (0.14s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:05:B9 (VMware)
+
+Nmap scan report for 10.11.1.31
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:4F:08 (VMware)
+
+Nmap scan report for 10.11.1.35
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:7C:11 (VMware)
+
+Nmap scan report for 10.11.1.39
+Host is up (0.072s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:75:85 (VMware)
+
+Nmap scan report for 10.11.1.44
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:25:D4 (VMware)
+
+Nmap scan report for 10.11.1.49
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:7D:F3 (VMware)
+
+Nmap scan report for 10.11.1.50
+Host is up (0.034s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:03:F7 (VMware)
+
+Nmap scan report for 10.11.1.71
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:93:6D:3F (VMware)
+
+Nmap scan report for 10.11.1.72
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+| smtp-vuln-cve2010-4344: 
+|_  The SMTP server is not Exim: NOT VULNERABLE
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:21:C1 (VMware)
+
+Nmap scan report for 10.11.1.73
+Host is up (0.058s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:3B:22 (VMware)
+
+Nmap scan report for 10.11.1.75
+Host is up (0.058s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:0B:78 (VMware)
+
+Nmap scan report for 10.11.1.115
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:48:AE (VMware)
+
+Nmap scan report for 10.11.1.116
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:6D:80 (VMware)
+
+Nmap scan report for 10.11.1.125
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:13:42 (VMware)
+
+Nmap scan report for 10.11.1.128
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+| smtp-vuln-cve2010-4344: 
+|_  The SMTP server is not Exim: NOT VULNERABLE
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:93:74:39 (VMware)
+
+Nmap scan report for 10.11.1.133
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:70:29 (VMware)
+
+Nmap scan report for 10.11.1.136
+Host is up (0.16s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:93:0E:72 (VMware)
+
+Nmap scan report for 10.11.1.141
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:18:CB (VMware)
+
+Nmap scan report for 10.11.1.145
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:54:9B (VMware)
+
+Nmap scan report for 10.11.1.146
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:41:32 (VMware)
+
+Nmap scan report for 10.11.1.202
+Host is up (0.21s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:02:3D (VMware)
+
+Nmap scan report for 10.11.1.209
+Host is up (0.23s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:43:9A (VMware)
+
+Nmap scan report for 10.11.1.217
+Host is up (0.38s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:70:11 (VMware)
+
+Nmap scan report for 10.11.1.218
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:14:F4 (VMware)
+
+Nmap scan report for 10.11.1.219
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:52:74 (VMware)
+
+Nmap scan report for 10.11.1.220
+Host is up (0.22s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:93:2C:79 (VMware)
+
+Nmap scan report for 10.11.1.221
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:57:00 (VMware)
+
+Nmap scan report for 10.11.1.223
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:33:7A (VMware)
+
+Nmap scan report for 10.11.1.226
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:26:02 (VMware)
+
+Nmap scan report for 10.11.1.227
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  open   smtp
+| smtp-vuln-cve2010-4344: 
+|_  The SMTP server is not Exim: NOT VULNERABLE
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:36:79 (VMware)
+
+Nmap scan report for 10.11.1.229
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  open     smtp
+| smtp-vuln-cve2010-4344: 
+|_  The SMTP server is not Exim: NOT VULNERABLE
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:93:61:B5 (VMware)
+
+Nmap scan report for 10.11.1.230
+Host is up (0.23s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:6B:3F (VMware)
+
+Nmap scan report for 10.11.1.234
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:41:79 (VMware)
+
+Nmap scan report for 10.11.1.237
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:5A:EC (VMware)
+
+Nmap scan report for 10.11.1.238
+Host is up (0.20s latency).
+
+PORT    STATE  SERVICE
+25/tcp  closed smtp
+465/tcp closed smtps
+587/tcp closed submission
+MAC Address: 00:50:56:89:1F:ED (VMware)
+
+Nmap scan report for 10.11.1.247
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:40:BD (VMware)
+
+Nmap scan report for 10.11.1.251
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:5D:1B (VMware)
+
+Nmap scan report for 10.11.1.252
+Host is up (0.20s latency).
+
+PORT    STATE    SERVICE
+25/tcp  filtered smtp
+465/tcp filtered smtps
+587/tcp filtered submission
+MAC Address: 00:50:56:89:47:C9 (VMware)
+
+Nmap done: 256 IP addresses (47 hosts up) scanned in 40.83 seconds
