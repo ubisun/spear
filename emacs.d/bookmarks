@@ -1,0 +1,55 @@
+;;;; Emacs Bookmark Format Version 1 ;;;;
+;;; This format is meant to be slightly human-readable;
+;;; nevertheless, you probably don't want to edit it.
+;;; -*- End Of Bookmark File Format Version Stamp -*-
+(("toy.cpp"
+ (filename . "~/workspace/HE/HEAAN/HEAAN/run/toy.cpp")
+ (front-context-string . "\n#define SIZE 4\n")
+ (rear-context-string . " namespace std;\n")
+ (position . 371))
+("ToyRingMultiplier.cpp"
+ (filename . "~/workspace/HE/HEAAN/HEAAN/run/ToyRingMultiplier.cpp")
+ (front-context-string . "    //         }")
+ (rear-context-string . " (long)pVec[k];\n")
+ (position . 2317))
+("ToyRingMultiplier.h"
+ (filename . "~/workspace/HE/HEAAN/HEAAN/run/ToyRingMultiplier.h")
+ (front-context-string . "#ifndef TOYRINGM")
+ (rear-context-string)
+ (position . 1))
+("Params.h"
+ (filename . "~/workspace/HE/HEAAN/HEAAN/src/Params.h")
+ (front-context-string . "/*\n* Copyright (")
+ (rear-context-string)
+ (position . 1))
+("RingMultiplier.cpp"
+ (filename . "~/workspace/HE/HEAAN/HEAAN/src/RingMultiplier.cpp")
+ (front-context-string . "/*\n* Copyright (")
+ (rear-context-string)
+ (position . 1))
+("Ring.cpp"
+ (filename . "~/workspace/HEAAN/HEAAN/src/Ring.cpp")
+ (front-context-string . "/*\n* Copyright (")
+ (rear-context-string)
+ (position . 1))
+("test.cpp"
+ (filename . "~/workspace/HEAAN/HEAAN/run/test.cpp")
+ (front-context-string . "/*\n* Copyright (")
+ (rear-context-string)
+ (position . 1))
+("Profile.h"
+ (filename . "~/workspace/HEAAN/HEAAN/src/Profile.h")
+ (front-context-string . "#ifndef HEAAN_PR")
+ (rear-context-string)
+ (position . 1))
+("TestScheme.cpp"
+ (filename . "~/workspace/HEAAN/HEAAN/src/TestScheme.cpp")
+ (front-context-string . "/*\n* Copyright (")
+ (rear-context-string)
+ (position . 1))
+("init.el"
+ (filename . "~/.emacs.d/init.el")
+ (front-context-string . ";; Remove toolba")
+ (rear-context-string)
+ (position . 1))
+)
